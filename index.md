@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Advanced Robotic Teleoperation Lab
 
 You can use the [editor on GitHub](https://github.com/ZiweiWang0304/ZiweiWang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
